@@ -4,7 +4,7 @@ import axios from 'axios';
 
 const Movies = () => {
   useEffect(() => {
-    axios.get('https://staging-api.moviexchange.com/mxs/reference-data/v1/')
+    axios.get('./../../db.json')
       .then((res) => {
         console.log(res);
       });
