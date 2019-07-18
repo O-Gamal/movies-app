@@ -1,78 +1,77 @@
 [
-    {
-      "id": 1,
-      "title": "The Lion King (2019)",
-      "img": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
-      "director":"Jon Favreau",
-      "stars" : "Donald Glover, Beyoncé, Seth Rogen, Chiwetel Ejiofor",
-      "story" : "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
-      "link": "https://www.imdb.com/title/tt6105098/?ref_=inth_ov_i",
-      "Rating" : 5.3
-    },
-    {
-        "id": 2,
-        "title": "David Crosby: Remember My Name (2019)",
-        "img": "https://m.media-amazon.com/images/M/MV5BYjhlNTQyZjItZWU0NS00MmVjLTkxYWItYThlNmJhMTExNjMyXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
-        "director":"A.J. Eaton",
-        "stars" : "David Crosby, Cameron Crowe, Henry Diltz, Graham Nash",
-        "story" : "Meet David Crosby in this portrait of a man with everything but an easy retirement on his mind.",
-        "link": "https://www.imdb.com/title/tt5884004/?ref_=inth_ov_tt",
-        "Rating" : 6.2
-      },
-      {
-        "id": 3,
-        "title": "Between Me and My Mind (2019)",
-        "img": "https://m.media-amazon.com/images/M/MV5BZmJhOWYwNzQtZWZmZS00NjRmLTljNzgtNjQxYzEyNWJhYTQxXkEyXkFqcGdeQXVyMTAzOTg0MTU1._V1_UY209_CR128,0,140,209_AL_.jpg",
-        "director":"Steven Cantor",
-        "stars" : " Ernest Anastasio, Sue Anastasio, Trey Anastasio, Jon Fishman",
-        "story" : "Driven by a constant need to create, Phish frontman Trey Anastasio takes on new projects, including some of his most personal music to date as well as Phish's ambitious New Year's Eve show at Madison Square Garden.",
-        "link": "https://www.imdb.com/title/tt10026172/?ref_=inth_ov_i",
-        "Rating" : 6.1
-      },
-      {
-        "id": 4,
-        "title": "Into the Ashes (2019)",
-        "img": "https://m.media-amazon.com/images/M/MV5BOTVhMjg3YTgtMjAxYy00MmIxLWI1MzEtN2UxMDIxYzkwYTJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
-        "director":"Jon Favreau",
-        "stars" : " Ernest Anastasio, Sue Anastasio, Trey Anastasio, Jon Fishman",
-        "link": "https://www.imdb.com/title/tt6105098/?ref_=inth_ov_i",
-        "Rating" : 5.9
-      },
-      {
-        "id": 5,
-        "title": "At War (2018)",
-        "img": "https://m.media-amazon.com/images/M/MV5BOWZhYWE3Y2EtZjE2NS00NGM4LTgzMjUtMDU2ZjZlYzViNTFlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR8,0,140,209_AL_.jpg",
-        "director":"Stéphane Brizés",
-        "stars" : "Vincent Lindon, Mélanie Rover, Jacques Borderie, David Rey",
-        "link": "https://www.imdb.com/title/tt7555774/?ref_=inth_ov_tt",
-        "Rating" : 6.9
-      },
-      {
-        "id": 6,
-        "title": "Rosie (2018)",
-        "img": "https://m.media-amazon.com/images/M/MV5BZDM4NTIzODEtNWJmMy00ZTZlLTg3NGEtYzAzNDlhNWIxYjliXkEyXkFqcGdeQXVyNDU3MTc0MzY@._V1_UY209_CR0,0,140,209_AL_.jpg",
-        "director":"Paddy Breathnach",
-        "stars" : " Sarah Greene, Moe Dunford, Ellie O'Halloran, Ruby Dunne",
-        "link": "https://www.imdb.com/title/tt8247470/?ref_=inth_ov_tt",
-        "Rating" : 7.3
-      },
-      {
-        "id": 7,
-        "title": "Streetwise (1984)",
-        "img": "https://m.media-amazon.com/images/M/MV5BMTI3MzE5MTczNF5BMl5BanBnXkFtZTYwOTA1MDk5._V1_UX140_CR0,0,140,209_AL_.jpg",
-        "director":"Martin Bell",
-        "stars" : " Roberta Joseph Hayes, Baby Gramps, Erin Blackwell, Lou Ellen Couch",
-        "link": "https://www.imdb.com/title/tt0088196/?ref_=inth_ov_tt",
-        "Rating" : 8.2
-      },
-      {
-        "id": 8,
-        "title": "Spider-Man: Far from Home (2019)",
-        "img": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
-        "director":"Jon Watts",
-        "stars" : " Tom Holland, Samuel L. Jackson, Jake Gyllenhaal",
-        "link": "https://www.imdb.com/title/tt6320628/?ref_=inth_ov_tt",
-        "Rating" : 8.0
-      }
-
+  {
+    "id": 1,
+    "title": "The Lion King (2019)",
+    "img": "https://m.media-amazon.com/images/M/MV5BMjIwMjE1Nzc4NV5BMl5BanBnXkFtZTgwNDg4OTA1NzM@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "director": "Jon Favreau",
+    "stars": "Donald Glover, Beyoncé, Seth Rogen, Chiwetel Ejiofor",
+    "story": "After the murder of his father, a young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.",
+    "link": "https://www.imdb.com/title/tt6105098/?ref_=inth_ov_i",
+    "Rating": 5.3
+  },
+  {
+    "id": 2,
+    "title": "David Crosby: Remember My Name (2019)",
+    "img": "https://m.media-amazon.com/images/M/MV5BYjhlNTQyZjItZWU0NS00MmVjLTkxYWItYThlNmJhMTExNjMyXkEyXkFqcGdeQXVyOTgxNDIzMTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "director": "A.J. Eaton",
+    "stars": "David Crosby, Cameron Crowe, Henry Diltz, Graham Nash",
+    "story": "Meet David Crosby in this portrait of a man with everything but an easy retirement on his mind.",
+    "link": "https://www.imdb.com/title/tt5884004/?ref_=inth_ov_tt",
+    "Rating": 6.2
+  },
+  {
+    "id": 3,
+    "title": "Between Me and My Mind (2019)",
+    "img": "https://m.media-amazon.com/images/M/MV5BZmJhOWYwNzQtZWZmZS00NjRmLTljNzgtNjQxYzEyNWJhYTQxXkEyXkFqcGdeQXVyMTAzOTg0MTU1._V1_UY209_CR128,0,140,209_AL_.jpg",
+    "director": "Steven Cantor",
+    "stars": " Ernest Anastasio, Sue Anastasio, Trey Anastasio, Jon Fishman",
+    "story": "Driven by a constant need to create, Phish frontman Trey Anastasio takes on new projects, including some of his most personal music to date as well as Phish's ambitious New Year's Eve show at Madison Square Garden.",
+    "link": "https://www.imdb.com/title/tt10026172/?ref_=inth_ov_i",
+    "Rating": 6.1
+  },
+  {
+    "id": 4,
+    "title": "Into the Ashes (2019)",
+    "img": "https://m.media-amazon.com/images/M/MV5BOTVhMjg3YTgtMjAxYy00MmIxLWI1MzEtN2UxMDIxYzkwYTJhXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "director": "Jon Favreau",
+    "stars": " Ernest Anastasio, Sue Anastasio, Trey Anastasio, Jon Fishman",
+    "link": "https://www.imdb.com/title/tt6105098/?ref_=inth_ov_i",
+    "Rating": 5.9
+  },
+  {
+    "id": 5,
+    "title": "At War (2018)",
+    "img": "https://m.media-amazon.com/images/M/MV5BOWZhYWE3Y2EtZjE2NS00NGM4LTgzMjUtMDU2ZjZlYzViNTFlXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_UY209_CR8,0,140,209_AL_.jpg",
+    "director": "Stéphane Brizés",
+    "stars": "Vincent Lindon, Mélanie Rover, Jacques Borderie, David Rey",
+    "link": "https://www.imdb.com/title/tt7555774/?ref_=inth_ov_tt",
+    "Rating": 6.9
+  },
+  {
+    "id": 6,
+    "title": "Rosie (2018)",
+    "img": "https://m.media-amazon.com/images/M/MV5BZDM4NTIzODEtNWJmMy00ZTZlLTg3NGEtYzAzNDlhNWIxYjliXkEyXkFqcGdeQXVyNDU3MTc0MzY@._V1_UY209_CR0,0,140,209_AL_.jpg",
+    "director": "Paddy Breathnach",
+    "stars": " Sarah Greene, Moe Dunford, Ellie O'Halloran, Ruby Dunne",
+    "link": "https://www.imdb.com/title/tt8247470/?ref_=inth_ov_tt",
+    "Rating": 7.3
+  },
+  {
+    "id": 7,
+    "title": "Streetwise (1984)",
+    "img": "https://m.media-amazon.com/images/M/MV5BMTI3MzE5MTczNF5BMl5BanBnXkFtZTYwOTA1MDk5._V1_UX140_CR0,0,140,209_AL_.jpg",
+    "director": "Martin Bell",
+    "stars": " Roberta Joseph Hayes, Baby Gramps, Erin Blackwell, Lou Ellen Couch",
+    "link": "https://www.imdb.com/title/tt0088196/?ref_=inth_ov_tt",
+    "Rating": 8.2
+  },
+  {
+    "id": 8,
+    "title": "Spider-Man: Far from Home (2019)",
+    "img": "https://m.media-amazon.com/images/M/MV5BMGZlNTY1ZWUtYTMzNC00ZjUyLWE0MjQtMTMxN2E3ODYxMWVmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_UX182_CR0,0,182,268_AL_.jpg",
+    "director": "Jon Watts",
+    "stars": " Tom Holland, Samuel L. Jackson, Jake Gyllenhaal",
+    "link": "https://www.imdb.com/title/tt6320628/?ref_=inth_ov_tt",
+    "Rating": 8.0
+  }
 ]

@@ -1,33 +1,17 @@
-import React from 'react';
-import {
-  AppBar, Toolbar, Typography, InputBase, Paper,
-} from '@material-ui/core';
+import React, { Fragment } from 'react';
+import IconButton from '@material-ui/core/IconButton';
+import Typography from '@material-ui/core/Typography';
 
-const styles = {
-  Toolbar: {
-    justifyContent: 'space-Around',
-  },
-  Paper: {
-    width: 300,
-  },
-  InputBase: {
-    paddingLeft: 10,
-  },
-};
+
+import { Link } from 'react-router-dom';
+
 
 const SearchBar = () => (
-      <AppBar position="static">
-        <Toolbar style={styles.Toolbar}>
-          <Typography variant="h4">Search For Movies</Typography>
-          <Paper style={styles.Paper}>
-                <InputBase
-                  style={styles.InputBase}
-                  placeholder="Search…"
-                  inputProps={{ 'aria-label': 'Search' }}
-                />
-          </Paper>
-        </Toolbar>
-      </AppBar>
+    <Fragment>
+           <Typography variant="h4" color="primary" align="center" style={{ margin: 20 }}>
+             Movies & Series App
+           </Typography>
+    </Fragment>
 );
 
-export default SearchBar;
+export default (SearchBar);
