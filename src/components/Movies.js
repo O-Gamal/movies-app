@@ -67,11 +67,12 @@ const useStyles = makeStyles(theme => ({
 const MoviesApp = () => {
   const classes = useStyles();
 
-  const [value, setValue] = useState('Avatar');
+  const [value, setValue] = useState('Fast');
 
   const updateSearch = (e) => {
     if (e.key === 'Enter') {
       setValue(e.target.value);
+      e.target.value = '';
     }
   };
 
